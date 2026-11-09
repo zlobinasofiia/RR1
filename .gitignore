@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.depend
+*.layout
+bin/
+obj/
+.DS_Store
+Thumbs.db
